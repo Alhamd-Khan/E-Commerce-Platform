@@ -12,7 +12,7 @@ A fully functional e-commerce web application built using the MERN stack — des
     🔍 Search, filters, and detailed product views
 
 🛍️ Shopping Cart & Checkout
-    💳 Stripe payment integration for smooth transactions
+    💳 payment for transactions
 
 🧑‍💼 Admin Dashboard
     📦 Inventory management and product control
